@@ -7,7 +7,6 @@
 - [Instagram](https://instagram.com/yithze) ![Instagram](https://img.shields.io/badge/-@yithze-black?style=flat-square&logo=instagram&logoColor=white)
 - [Email](mailto:aldiyusronazhar@gmail.com) ![Gmail](https://img.shields.io/badge/-aldiyusronazhar@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white)
 
----
 
 ### ⚙️ Tech Stack:
 - `.hs`, `.js`, `.jsx`, `.vue`, `.php`, `.blade`, `.html`, `.scss`, `gsap`, `.sql`, `.mongodb`, `.svg`
@@ -21,10 +20,9 @@
 - GreenSock Animation Platform
 - Fastify
 
----
+
 
 I study at **Tunas Media Depok Vocational School**.
 
 ![Arch Linux](https://img.shields.io/badge/Arch-Linux-FF0000?style=flat&logo=archlinux&logoColor=white)
 
----
