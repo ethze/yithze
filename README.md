@@ -10,13 +10,15 @@
 - `.hs`, `.js`, `.jsx`, `.vue`, `.php`, `.blade`, `.html`, `.scss`, `gsap`, `.sql`, `.mongodb`, `.svg`
 
 ### 🔭 I’m currently working on:
-- **AKA-RCHIVE**
+- **Libms**
 
 ### 🌱 I’m currently learning:
 - NodeJS Backend
 - MongoDB
+- Supabase (Postgres)
 - GreenSock Animation Platform
 - Fastify
+- Next js 14 -> 15
 
 
 
