@@ -1,4 +1,4 @@
-# Hey there, I'm Azhar 👋
+# Hey there, I'm Aldi Yusron [Azar]
  
 ### Fullstack Developer passionate about building robust and scalable applications
  
