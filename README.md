@@ -13,9 +13,9 @@ Currently diving deep into modern backend architecture with a focus on type-safe
 
 ### ⚙️ Tech Stack:
 
-![Fastify](https://img.shields.io/badge/Fastify-750800?style=flat-square&logo=fastify&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-750800?style=flat-square&logo=zod&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-750800?style=flat-square&logo=typescript&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-000000?style=flat-square&logo=zod&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-000000?style=flat-square&logo=prisma&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
