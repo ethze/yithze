@@ -5,7 +5,7 @@
 Currently diving deep into modern backend architecture with a focus on type-safety and performance. I love creating clean, maintainable code and smooth user experiences.
 
 #### Connect with me:
-![LinkedIn](https://img.shields.io/badge/-soon-black?style=flat-square&logo=Linkedin&logoColor=white) ![Instagram](https://img.shields.io/badge/-@yithze-black?style=flat-square&logo=instagram&logoColor=white) ![Gmail](https://img.shields.io/badge/-aldiyusronazhar@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/-aldiyusronazhar-black?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aldiyusronazhar/) [![Instagram](https://img.shields.io/badge/-@yithze-black?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yithze) [![Gmail](https://img.shields.io/badge/-aldiyusronazhar@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white)](mailto:aldiyusronazhar@gmail.com)
 
 ---
 
