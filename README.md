@@ -9,39 +9,16 @@ Currently diving deep into modern backend architecture with a focus on type-safe
 
 ---
 
-### 🚀 Currently Obsessed With:
 
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-
-Building type-safe, lightning-fast APIs with **Fastify** + **TypeScript** + **Prisma** + **Zod** for rock-solid validation. This stack is a game changer for backend development! 🔥
-
----
 
 ### ⚙️ Tech Stack:
 
-**Frontend:**
-- `.js`, `.jsx`, `.vue`, `.html`, `.scss`
-- GSAP (GreenSock Animation Platform)
-- Next.js 14 → 15
-
-**Backend:**
-- `.ts` (TypeScript)
-- Node.js
-- Fastify
-- `.php`, `.blade`
-
-**Database & ORM:**
-- Prisma
-- MongoDB
-- PostgreSQL (Supabase)
-- `.sql`
-
-**Other:**
-- `.hs` (Haskell)
-- `.svg`
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
