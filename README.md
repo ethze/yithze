@@ -31,9 +31,6 @@ Currently diving deep into modern backend architecture with a focus on type-safe
 
 ---
 
-### 🎓 Education:
-I study at **Tunas Media Depok Vocational School**
-
 ### 💻 Environment:
 ![Arch Linux](https://img.shields.io/badge/Arch-Linux-000000?style=flat&logo=archlinux&logoColor=white)
 
