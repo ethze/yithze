@@ -17,6 +17,17 @@ Currently diving deep into modern backend architecture with a focus on type-safe
 ![Prisma](https://img.shields.io/badge/Prisma-000000?style=flat-square&logo=prisma&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-000?style=flat-square&logo=deno&logoColor=fff)
+![Nest.js](https://img.shields.io/badge/Nest.js-000000?style=flat-square&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=fff)
+![WebGL](https://img.shields.io/badge/WebGL-000000?style=flat-square&logo=webgl&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-000000?style=flat-square&logo=drizzle&logoColor=fff)
+![Oracle](https://img.shields.io/badge/Oracle-000000?style=flat-square&logo=oracle&logoColor=fff)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-000000?style=flat-square&logo=oracle&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-000000?style=flat-square&logo=vim&logoColor=white)
+![Zed](https://img.shields.io/badge/Zed-000000?style=flat-square&logo=zedindustries&logoColor=white)
 
 ---
 
