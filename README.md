@@ -31,7 +31,7 @@ Currently diving deep into modern backend architecture with a focus on type-safe
 
 ---
 
-### 💻 Environment:
+### Environment:
 ![Arch Linux](https://img.shields.io/badge/Arch-Linux-000000?style=flat&logo=archlinux&logoColor=white)
 
 ---
