@@ -22,9 +22,6 @@ Currently diving deep into modern backend architecture with a focus on type-safe
 
 ---
 
-### 🔭 I'm currently working on:
-- **Libms** - Building scalable backend services with modern tooling
-
 ### 🌱 I'm currently learning:
 - Advanced TypeScript patterns
 - Microservices architecture with Fastify
@@ -38,7 +35,7 @@ Currently diving deep into modern backend architecture with a focus on type-safe
 I study at **Tunas Media Depok Vocational School**
 
 ### 💻 Environment:
-![Arch Linux](https://img.shields.io/badge/Arch-Linux-FF0000?style=flat&logo=archlinux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch-Linux-000000?style=flat&logo=archlinux&logoColor=white)
 
 ---
 
