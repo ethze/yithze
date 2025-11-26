@@ -1,13 +1,11 @@
 # Hey there, I'm Aldi Yusron [Azar]
- 
-### Fullstack Developer passionate about building robust and scalable applications
 
+### Fullstack Developer passionate about building robust and scalable applications
+ 
 Currently diving deep into modern backend architecture with a focus on type-safety and performance. I love creating clean, maintainable code and smooth user experiences.
 
 #### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-Aldi_Yusron-0A66C2?style=flat-square&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/aldiyusronazhar/) 
-![Instagram](https://img.shields.io/badge/-@yithze-black?style=flat-square&logo=instagram&logoColor=white) 
-[![Gmail](https://img.shields.io/badge/-aldiyusronazhar@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=black)](mailto:aldiyusronazhar@gmail.com)
+![LinkedIn](https://img.shields.io/badge/-soon-black?style=flat-square&logo=Linkedin&logoColor=white) ![Instagram](https://img.shields.io/badge/-@yithze-black?style=flat-square&logo=instagram&logoColor=white) ![Gmail](https://img.shields.io/badge/-aldiyusronazhar@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white)
 
 ---
 
